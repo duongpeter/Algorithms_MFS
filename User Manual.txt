@@ -1,0 +1,5 @@
+For Windows OS:
+Step 1: Download the Algorithms.rar file from the link and extract it
+Step 2: Go to the windows start menu and open the Command Prompt application.
+Step 3: Go to the extracted Algorithms folder and type the following command:
+java -jar TestAlgorithms.jar
