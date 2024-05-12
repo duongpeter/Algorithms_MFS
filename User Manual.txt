@@ -1,7 +1,0 @@
-For Windows OS:
-Step 1: Download the Algorithms.rar file from the link and extract it
-Step 2: Go to the windows start menu and open the Command Prompt application.
-Step 3: Go to the extracted Algorithms folder and type the following command:
-java -jar TestAlgorithms.jar
-
-Note: Before using the datasets D2C7T10N2.5S6I4 and D5C10T6N5S6I4, please copy the files from the data1 folder to the data folder within the Algorithms folder.
